@@ -1,0 +1,14 @@
+{
+"companyName": "ChickChilinka",
+"productName": "Hot Planet",
+"dataUrl": "Hot Planet WebGL.data.unityweb",
+"asmCodeUrl": "Hot Planet WebGL.asm.code.unityweb",
+"asmMemoryUrl": "Hot Planet WebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "Hot Planet WebGL.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Hot Planet WebGL.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
